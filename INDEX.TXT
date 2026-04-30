@@ -5,3 +5,9 @@ A: Java is a high-level, class-based, object-oriented programming language. It i
 Q: Why is Java called "Platform Independent"?
 
 A: Because of Bytecode. When you write Java code, it is compiled into bytecode (.class files). This bytecode isn't specific to Windows, Mac, or Linux; instead, the JVM on that specific system reads the bytecode and runs it.
+
+Q: What is an Object and a Class?
+
+Class: A blueprint or template for creating objects. (Example: A "Car" blueprint).
+
+Object: An instance of a class. (Example: Your specific red Tesla).
