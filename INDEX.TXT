@@ -1,0 +1,7 @@
+Q: What is Java?
+
+A: Java is a high-level, class-based, object-oriented programming language. It is designed to be platform-independent, meaning code written on one machine can run on any other machine that has a Java Virtual Machine (JVM).
+
+Q: Why is Java called "Platform Independent"?
+
+A: Because of Bytecode. When you write Java code, it is compiled into bytecode (.class files). This bytecode isn't specific to Windows, Mac, or Linux; instead, the JVM on that specific system reads the bytecode and runs it.
